@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/WxxShirley">
+<a href="https://github.com/easilylazy">
   <img src="https://github-readme-stats.vercel.app/api?username=easilylazy&show_icons=true&theme=dracula" />
 </a>
 
