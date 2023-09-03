@@ -5,9 +5,8 @@
 
 
 
-- 🔭 I’m currently working on [Mo2](https://www.motwo.cn)-best blog site in the world( in the future)
-- 🌱 I’m currently learning coding with the help of [@Chronostasys](https://github.com/Chronostasys)
-- 👯 I’m looking to collaborate on Mo2 in [github](https://github.com/monkey-mouse/mo2)
+- 🔭 I’m currently working on object detection in autonomous driving
+- 🌱 I’m currently interested in computer vision
 - ⚡ Fun fact: I'm not funny at all 😐
 
 <!--
